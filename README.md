@@ -9,7 +9,6 @@ divided into the following groups
 1)I/0 Operations
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-  * Boundaries
   * Check if the given number is divisible by 8 and 5
   * Calculator
   * Count the letters and numbers in given word
