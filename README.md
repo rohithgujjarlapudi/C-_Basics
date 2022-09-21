@@ -14,3 +14,7 @@ divided into the following groups
   * Count the letters and numbers in given word
   * Small and Large element in the given array
   * Minimum of three numbers
+  * Leap year
+  * positive or negative number
+  
+
