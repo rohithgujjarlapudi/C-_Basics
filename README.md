@@ -16,5 +16,9 @@ divided into the following groups
   * Minimum of three numbers
   * Leap year
   * positive or negative number
+  * sum of digits
+  * for_loop
+  * factorial
+  
   
 
