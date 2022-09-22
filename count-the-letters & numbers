@@ -3,7 +3,6 @@
 using namespace std;
 
 int main() {
-  std::cout << "Hello World!\n";
   string input;
   int countnum,countletter,countspaces;
   countnum= 0;
@@ -20,4 +19,11 @@ int main() {
     }
     else{
       countletter++;
+      
+    }
+    }
+    cout<<"number of letters "<<countletter<<endl;
+    cout<<"number of numbers "<<countnum<<endl;
+    
+    return 0;
     }
