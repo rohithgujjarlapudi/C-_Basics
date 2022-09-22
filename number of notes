@@ -1,0 +1,37 @@
+#include <iostream>
+using namespace std;
+int main() {
+  int money;
+  int n2000=0,n500=0,n200=0,n100=0,n50=0,n20=0,n10=0,n5=0,n2=0,n1=0;
+  cin>>money;
+  n2000=money/2000;
+  money=money-n2000*2000;
+  n500=money/500;
+  money=money-n500*500;
+  n200=money/200;
+  money=money-n200*200;
+  n100=money/100;
+  money=money-n100*100;
+  n50=money/50;
+  money=money-n50*50;
+  n20=money/20;
+  money=money-n20*20;
+  n10=money/10;
+  money=money-n10*10;
+  n5=money/5;
+  money=money-n5*5;
+  n2=money/2;
+  money=money-n2*2;
+  n1=money/1;
+  cout<<"2000="<<n2000<<endl;
+  cout<<"500="<<n500<<endl;
+  cout<<"200="<<n200<<endl;
+  cout<<"100="<<n100<<endl;
+  cout<<"50="<<n50<<endl;
+  cout<<"20="<<n20<<endl;
+  cout<<"10="<<n10<<endl;
+  cout<<"5="<<n5<<endl;
+  cout<<"2="<<n2<<endl;
+  cout<<"1="<<n1<<endl;
+  
+}
