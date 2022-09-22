@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  int num,x,sum=0;
+  cout<<"enter the number"<<endl;
+  cin>>num;
+  while(num>0)
+    {
+      x=num%10;
+        sum=sum+x;
+      num=num/10;
+      
+      
+    }
+  cout<<"sum is  "<<sum<<endl;
+  return 0;
+  
+}
