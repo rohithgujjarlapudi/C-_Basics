@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  int n,product= 1;
+  cout<<"Enter the number :";
+  cin>>n;
+  while(n!=0){
+    int rem = n%10;
+    product = product*rem;
+    n = n/10;
+    
+  }
+  cout<<"The product of the number is :"<<product;
+  
+}
