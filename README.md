@@ -19,6 +19,9 @@ divided into the following groups
   * sum of digits
   * for_loop
   * factorial
+  * prime numbers between 100 to 500
+  * Number of notes
+  * 
   
   
 
