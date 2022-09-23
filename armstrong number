@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+int main() {
+    int n,sum=0,temp,x;
+    cin>>n;
+    temp=n;
+    while(n!=0)
+    {
+        x=n%10;
+        sum=sum+x*x*x;
+        n=n/10;
+    }
+    if(temp==sum)
+    cout<<"The given number is an armstrong number";
+    else
+    cout<<"The given number is not an armstrong number";
+}
