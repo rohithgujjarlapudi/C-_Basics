@@ -21,7 +21,11 @@ divided into the following groups
   * factorial
   * prime numbers between 100 to 500
   * Number of notes
-  * 
+  * sum of three numbers
+  * reverse of a number
+  * product of a number
+  * palindrome
+  * Maximum of 4 numbers
   
   
 
