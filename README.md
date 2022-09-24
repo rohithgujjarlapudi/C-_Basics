@@ -25,7 +25,8 @@ divided into the following groups
   * reverse of a number
   * product of a number
   * palindrome
-  * Maximum of 4 numbers
+  * Maximum of 4 numbers using functions
+  * sum of 4 numbers using functions
   
   
 
