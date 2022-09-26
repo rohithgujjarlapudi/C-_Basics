@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+  struct distance{
+    int inches;
+    int feet;
+     }d1,d2;
+int main()
+{
+  int sum_inches,sum_feet;
+  cin>>d1.inches;
+  cin>>d1.feet;
+  cin>>d2.inches;
+  cin>>d2.feet;
+  sum_feet=d1.feet+d2.feet;
+  sum_inches=d1.inches+d2.inches;
+  cout<<sum_feet<<endl;
+  cout<<sum_inches<<endl;
+  return 0;
+}
+  
+  
