@@ -4,7 +4,7 @@ C++ Programming
 C++ is portable and can be used to develop applications that can be adapted to multiple platforms.The programs that are done in this depository will be 
 divided into the following groups
 
-############################################################################################################
+####################################################################################
 
 1)I/0 Operations
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -27,6 +27,11 @@ divided into the following groups
   * palindrome
   * Maximum of 4 numbers using functions
   * sum of 4 numbers using functions
+  * amstrong number
+  * reverse of an array
+  * sum of distances using structures
+  * printing patterns
+
   
   
 
