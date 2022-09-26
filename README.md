@@ -27,6 +27,8 @@ divided into the following groups
   * palindrome
   * Maximum of 4 numbers using functions
   * sum of 4 numbers using functions
+  * amstrong number
+
   
   
 
