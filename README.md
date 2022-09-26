@@ -29,7 +29,8 @@ divided into the following groups
   * sum of 4 numbers using functions
   * amstrong number
   * reverse of an array
-  *
+  * sum of distances using structures
+  * printing patterns
 
   
   
