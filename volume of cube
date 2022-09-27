@@ -1,0 +1,26 @@
+#include <iostream>
+using namespace std;
+class cube{
+public:
+
+cube()
+{
+  int a;
+  cin>>a;
+  int volume;
+  cout<<"volume of the cube is  "<<a*a*a<<endl;
+  
+
+}
+
+
+  ~cube(){
+    
+  }
+};
+
+int main() {
+  
+  cube volume;
+  return 0;
+}
