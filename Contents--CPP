@@ -12,11 +12,37 @@
  
  2. BASIC ALGORITHM
  
- =>
- =>
- =>
- =>
- =>
+ 2.1) => Caluculator
+ 2.2) => This C++ program used to demonstrates how to find out whether a natural number is prime or not.
+ 2.3) => Write a C++ program to check two given integers and return the value whichever value is nearest to 13 without going over. Return 0 if both numbers go over. 
+         Sample Input:
+         4, 5
+         7, 12
+         10, 13
+         17, 33
+         Sample Output:
+         5
+         12
+         13
+         0
+ 2.4) =>Write a C++ program to check a given array of integers of length 1 or more and return true if the first element and the last element are equal in the given array. 
+        Sample Input:
+        { 10, 20, 40, 50 }
+        { 10, 20, 40, 10 }
+        { 12, 24, 35, 55 }
+        Sample Output:
+        0
+        1
+        0
+ 2.5) => Write a C++ program to get the absolute difference between n and 51. If n is greater than 51 return triple the absolute difference. 
+         Sample Input:
+         53
+         30
+         51
+         Sample Output:
+         6
+         21
+         0
  
  -----------------------------------------------------------------------------
  
