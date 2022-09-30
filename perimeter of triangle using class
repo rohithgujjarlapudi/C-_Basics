@@ -1,0 +1,20 @@
+#include <iostream>
+#include <math.h>
+using namespace std;
+class triangle
+{
+public:
+void area(int a,int b,int c);
+void perimeter(int a,int b,int c);
+};
+void triangle::perimeter(int a,int b,int c)
+{
+  cout<<"perimeter of a triangle is"<<a+b+c;
+}
+
+int main() {
+  triangle tr1;
+  int side1=3,side2=4,side3=5;
+  tr1.perimeter(side1,side2,side3);
+  return 0;
+}
