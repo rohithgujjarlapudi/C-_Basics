@@ -31,6 +31,7 @@ divided into the following groups
   * reverse of an array
   * sum of distances using structures
   * printing patterns
+  * perimeter of triangle using classes
 
   
   
