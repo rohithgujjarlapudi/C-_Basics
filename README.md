@@ -32,7 +32,7 @@ divided into the following groups
   * sum of distances using structures
   * printing patterns
   * perimeter of triangle using classes
-  * volume of cube using clasess..
+  * volume of cube using clasess.
 
   
   
