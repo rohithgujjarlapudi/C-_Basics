@@ -15,7 +15,7 @@ divided into the following groups
   * Small and Large element in the given array
   * Minimum of three numbers
   * Leap year
-  * positive or negative number.....
+  * positive or negative number....
   * sum of digits
   * for_loop
   * factorial
